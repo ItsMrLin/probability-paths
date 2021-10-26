@@ -1,0 +1,7 @@
+sandbox
+*.csv
+notebook
+
+*.ipynb
+__pycache__
+.ipynb*

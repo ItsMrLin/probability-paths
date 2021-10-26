@@ -1,0 +1,2 @@
+time Rscript src/run_glim_model.R /share/data/info-uncertainty/paper/input_data/nba/train.rds /share/data/info-uncertainty/paper/output/nba
+time Rscript src/run_glim_model.R /share/data/info-uncertainty/paper/input_data/weather/train.rds /share/data/info-uncertainty/paper/output/weather
